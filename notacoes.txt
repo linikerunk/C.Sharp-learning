@@ -1,0 +1,12 @@
+. NET FRAMEWORK
+. NET CORE
+. NET Standard ( FRAMEWORK e CORE)
+
+
+.NET FRAMEWORK vs .NET CORE
+
+diferença
+.net framework obrigação de usar o visual studio
+ja no .net core vc pode usar o vscode 
+tem no docker extremamente performatico suporta a nuvem IOT
+
