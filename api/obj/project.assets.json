@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\liniker.de.oliveira\\projects\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\liniker.de.oliveira\\projects\\C#\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\liniker.de.oliveira\\projects\\api\\api.csproj",
+      "projectPath": "C:\\Users\\liniker.de.oliveira\\projects\\C#\\api\\api.csproj",
       "packagesPath": "C:\\Users\\liniker.de.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\liniker.de.oliveira\\projects\\api\\obj\\",
+      "outputPath": "C:\\Users\\liniker.de.oliveira\\projects\\C#\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\liniker.de.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config"
